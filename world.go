@@ -2,8 +2,8 @@ package mcwss
 
 import (
 	"fmt"
-	"github.com/sandertv/mcwss/mctype"
-	"github.com/sandertv/mcwss/protocol/command"
+	"github.com/ryborg/mcwss/mctype"
+	"github.com/ryborg/mcwss/protocol/command"
 	"strings"
 )
 
