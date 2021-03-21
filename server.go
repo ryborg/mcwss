@@ -6,7 +6,7 @@ import (
 	"crypto/rand"
 	"encoding/json"
 	"github.com/gorilla/websocket"
-	"github.com/sandertv/mcwss/protocol"
+	"github.com/ryborg/mcwss/protocol"
 	"log"
 	"net/http"
 )
