@@ -1,8 +1,8 @@
 package mcwss
 
 import (
-	"github.com/sandertv/mcwss/mctype"
-	"github.com/sandertv/mcwss/protocol/command"
+	"github.com/ryborg/mcwss/mctype"
+	"github.com/ryborg/mcwss/protocol/command"
 )
 
 // Agent is the agent of a player. The agent is an entity that can be created and controlled using websockets.
