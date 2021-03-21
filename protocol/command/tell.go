@@ -2,7 +2,7 @@ package command
 
 import (
 	"fmt"
-	"github.com/sandertv/mcwss/mctype"
+	"github.com/ryborg/mcwss/mctype"
 )
 
 // TellRequest produces the command required to private message a target.
