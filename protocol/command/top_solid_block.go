@@ -2,7 +2,7 @@ package command
 
 import (
 	"fmt"
-	"github.com/sandertv/mcwss/mctype"
+	"github.com/ryborg/mcwss/mctype"
 )
 
 // TopSolidBlockRequest produces the command required to request the top solid block at a location.
